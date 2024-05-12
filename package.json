@@ -1,0 +1,16 @@
+{
+  "name": "badi",
+  "version": "1.0.0",
+  "description": "Parse XML from badi api and display what i parse",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "20.9.0" // specify the Node.js version you are using
+  },
+  "license": "MIT"
+}
